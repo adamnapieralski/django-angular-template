@@ -1,2 +1,3 @@
 client/ang/node_modules/
 site_django/static/site_django/ang/
+**/__pycache__
